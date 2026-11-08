@@ -1,0 +1,13 @@
+env: test
+test:
+  base_url: http://192.168.29.100:8080/jeecg-boot
+  username: admin
+  password: "填写自己的密码"
+  # 部门角色用例使用的部门id，对应 sys_depart.id（可执行 select id,depart_name from sys_depart 查一个）
+  depart_id: "填写目标环境真实存在的部门id"
+  mysql:
+    host: 192.168.29.100
+    port: 3306
+    user: root
+    password: "填写数据库密码"
+    database: jeecg-boot
