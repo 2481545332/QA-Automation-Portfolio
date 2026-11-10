@@ -18,3 +18,25 @@
 
 ## 🚀 运行方式
 进入各个子模块目录，执行 `python run.py` 即可一键运行用例并生成可视化的 Allure 测试报告。
+
+## jeecg-boot-allure报告截图
+
+<img width="411" height="377" alt="屏幕截图 2026-11-06 083345" src="https://github.com/user-attachments/assets/450ccfe9-0d23-42d9-b9a9-dbfb69d82a00" />
+
+<img width="943" height="410" alt="屏幕截图 2026-11-06 083259" src="https://github.com/user-attachments/assets/752cff50-cb75-4230-913a-bb8e1cf642e2" />
+
+<img width="931" height="415" alt="屏幕截图 2026-11-06 083215" src="https://github.com/user-attachments/assets/1a7fcbc0-7b39-4477-84a3-6baff7705add" />
+
+<img width="921" height="443" alt="屏幕截图 2026-11-06 083129" src="https://github.com/user-attachments/assets/084914c9-3cda-4e95-b0ef-e8f70c102b83" />
+
+## saucedome-allure报告截图
+
+<img width="780" height="857" alt="image" src="https://github.com/user-attachments/assets/a13f9ddd-ec59-4bf2-aa5f-7d89ac672814" />
+
+<img width="1626" height="782" alt="image" src="https://github.com/user-attachments/assets/ac3de975-4d28-415b-a917-090f2e633111" />
+
+<img width="1633" height="738" alt="image" src="https://github.com/user-attachments/assets/0093172d-6fb2-4b4b-9d81-36677f436607" />
+
+<img width="1593" height="790" alt="image" src="https://github.com/user-attachments/assets/11237ff6-8617-4cf7-8ce6-6fe79ead1022" />
+
+<img width="1598" height="826" alt="image" src="https://github.com/user-attachments/assets/86da48de-7e2e-43af-bf1c-217041f91bf3" />
